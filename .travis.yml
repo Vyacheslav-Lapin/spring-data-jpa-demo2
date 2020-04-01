@@ -1,0 +1,4 @@
+language: java
+jdk: openjdk14
+# install: true
+# script: ./mvnw clean package
