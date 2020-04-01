@@ -1,4 +1,4 @@
-package ru.vlapin.experiments.springbootdatajpademo.model;
+package ru.vlapin.experiments.springdatajpademo2.model;
 
 import static lombok.AccessLevel.PRIVATE;
 
@@ -6,7 +6,6 @@ import java.time.LocalDateTime;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Builder.Default;
